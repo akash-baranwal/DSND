@@ -5,14 +5,14 @@ The Boston and Seatle Airbnb datasets were collected based on Cross-Industry Sta
 
 The business questions we are trying to answer:
 
-    * What are the most important features to estimate rental priceof an Airbnb room?
-    * Is there any noticeable difference Airbnbs of two different location?
-    * What are the top amenities used by people?
+* What are the most important features to estimate rental priceof an Airbnb room?
+* Is there any noticeable difference Airbnbs of two different location?
+* What are the top amenities used by people?
 
 ### File Description
 
-    * A Descriptive Jupyter Notebook
-    * Two datasets: Detailed Listings data for Boston and Seattle. Dataset Link: [link](http://insideairbnb.com/get-the-data.html).
+* A Descriptive Jupyter Notebook
+* Two datasets: Detailed Listings data for Boston and Seattle. Dataset Link: [link](http://insideairbnb.com/get-the-data.html).
 
 ### Results of the analysis
 
