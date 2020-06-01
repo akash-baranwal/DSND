@@ -16,6 +16,5 @@ The business questions we are trying to answer:
 
 ### Results of the analysis
 
-Results and discussion were published on my personal blog on hasnode: 
-[Deeper dive into Airbnb data][https://akashbaranwal.hashnode.dev/deeper-dive-into-airbnb-dataset-ckaw57rdr07mx4us119dq6i36]
+Results and discussion were published on my personal blog on hasnode: [Deeper dive into Airbnb data](https://akashbaranwal.hashnode.dev/deeper-dive-into-airbnb-dataset-ckaw57rdr07mx4us119dq6i36)
 In this project, I dived into the most recent Airbnb Boston and Seattle dataset and found some interesting relations which are given in my blog.
